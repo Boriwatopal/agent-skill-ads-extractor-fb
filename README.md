@@ -35,10 +35,6 @@ README.md
 3. Never overlay shapes on images - even transparent shapes block rendering
 4. Single JSON pack only - Chrome drops multiple rapid downloads silently
 
-## Example Output
-
-See `/examples/` - Thailand Real Estate Ad Intelligence 2026: 13 brands, ~200 ads analyzed, 12-slide deck with real embedded creatives.
-
 ## Requirements
 
 - Python 3.6+, Node.js 14+, pptxgenjs
