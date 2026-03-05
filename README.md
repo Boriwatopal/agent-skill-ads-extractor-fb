@@ -11,9 +11,6 @@ skills/competitor-deck-builder/
     extract_images_from_pack.py     # Extracts JPEGs from JSON pack
   references/
     pptx_deck_guide.md              # pptxgenjs API reference & gotchas
-examples/
-  Thailand_RealEstate_Ad_Intelligence_2026.pptx
-  thailand_realestate_ads_pack.json
 README.md
 ```
 
